@@ -62,18 +62,6 @@ python varandah_waste_model.py
   --classifier waste_label_classifier.pkl
   --encoder waste_label_encoder.pkl
 
-## Project Structure
-.
-├── varandah_waste_model.py
-├── varandah_waste_training.py
-├── waste_label_classifier.pkl
-├── waste_label_encoder.pkl
-├── data/
-│   └── waste_images/
-├── outputs/
-│   └── predictions.csv
-├── test_samples/
-├── *.csv (result tracking)
 
 ## 🔁 Test-Time Augmentation (TTA)
 
