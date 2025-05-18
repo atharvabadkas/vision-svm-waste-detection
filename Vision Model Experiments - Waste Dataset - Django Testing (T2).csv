@@ -1,0 +1,42 @@
+Sr. no.,Date,Testing Outcomes (Summary),Accuracy ,Image Size,No. of SKUs,Amount of data,Batch size,Screen Recoding Link 
+1,10-11-2024,"This test is on 50 Images that were present on 10th Nov 2024
+1. South Indian Chutney was mistaken as Chutney Idiyappam
+2. Plain Dal was mistaken as Bhatura Kanik
+3. Sandwich Chutney was mistaken as Tikhat Pani Bhel
+4. Paneer Peri Peri was mistaken as Spinach Corn Stuffing
+5. Sambar was mistaken as Misal Kat
+6. Tandoori Dahi
+Rest were correct - 44/50",88,224*224,75,15 Images and 5 Augmentations Per SKUs,15,
+2,04-02-2025,"This test is on 36 Images that were present on 4th Feb 2025
+1. South Indian Chutney was Mistaken as Sandwich Chutney
+2. Spinach Corn Stuffing was Mistaken as Paneer junglee Stuffing
+Rest were correct - 32/34",94.12,224*225,75,15 Images and 5 Augmentations Per SKUs,15,
+3,05-02-2025,"This test is on 36 Images that were present on 5th Feb 2025
+1. Chopped Kanda was mistaken as Kothimbir
+2. Dosa Bhaji was mistaken as Bombay Sandwich Stuffing
+3. Medu Wada Wada was mistaken as Aloo Tikki
+4. Akha Massor was mistaken as Tikhat pani bhel
+5. Veg Cutting was mistaken as Bombay Sandwich Stuffing
+6. Dal Khichadi Dal was mistaken as Paneer Peri Peri 
+Rest were correct - 30/36",83.33,224*226,75,15 Images and 5 Augmentations Per SKUs,15,
+4,06-02-2025,"This test is on 45 Images that were present on 6th Feb 2025
+1. Paneer Butter Masala was mistaken as Red Sauce
+2. Pattice was mistaken as Pre Plated Spdp Puri
+Rest were correct - 43/45",95.56,224*227,75,15 Images and 5 Augmentations Per SKUs,15,
+5,07-02-2025,"This test is on 34 Images that were present on 7th Feb 2025
+1. Stew was mistaken as Medu Wada Pith
+2. Paneer Butter Masala was mistaken as Red Sauce
+3. Chopped Tomatoes were mistaken as Bell Peppers
+Rest were correct - 31/34",91.18,224*228,75,15 Images and 5 Augmentations Per SKUs,15,7th Feb 2025 Clip Testing - Waste Dataset.mov
+6,08-02-2025,"This test is on 11 Clear Images that were present on 8th Feb
+1. Iddiappams were mistaken as Dal Khichdi Rice 
+Rest were correct - 10/11",90.91,224*229,75,15 Images and 5 Augmentations Per SKUs,15,8th Feb 2025 Clip Tesing - Waste Dataset.mov
+7,09-02-2025,"This test is on 29 Images that were present on 9th Feb
+1. Akha Massor was mistaken as  Tikhat Pani Bhel 
+2. Chopped Kanda was mistaken as  Paneer Junglee Stuffing
+3. Medu Wada Wada was mistaken as Aalo Tikki
+Rest were correct - 26/29",90.38,224*230,75,15 Images and 5 Augmentations Per SKUs,15,9th Feb 2025 Clip Testing - Waste Dataset.mov
+,,"
+Total Images Evaluated: 239
+Total Correct Predictions: 216
+",90.38,,,,,

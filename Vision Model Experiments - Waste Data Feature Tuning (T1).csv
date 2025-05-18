@@ -1,0 +1,54 @@
+Sr. No,Image Given,Feature Tuning,,,Sr. No,Image Given,Feature Tuning,,,Sr. No,Image Given,0 Shot,
+0,Date - 29/01/2025,Test Passed,Accuracy,,0,Date - 30/01/2025,Test Passed,Accuracy,,0,Date - 29/01/2025,Test Passed,Accuracy
+1,besan,TRUE,86.79,,1,besan,TRUE,51.79,,1,besan,FALSE,0
+2,bhagar,TRUE,43.19,,2,bhagar,TRUE,21.45,,2,bhagar,FALSE,0
+3,bharit,TRUE,72.6,,3,bharit,TRUE,45.18,,3,bharit,TRUE,84.23
+4,chole,TRUE,72.06,,4,chole,TRUE,58.7,,4,chole,FALSE,0
+5,dal khichdi rice,TRUE,70.04,,5,dal khichdi rice,TRUE,60.79,,5,dal khichdi rice,FALSE,0
+6,dosa bhaji,TRUE,78.95,,6,dosa bhaji,TRUE,63.9,,6,dosa bhaji,FALSE,0
+7,dosa pith,TRUE,81.04,,7,dosa pith,TRUE,56.87,,7,dosa pith,TRUE,99.31
+8,kaju paste,TRUE,75.08,,8,kaju paste,TRUE,19.89,,8,kaju paste,FALSE,0
+9,kothimbir,TRUE,77.08,,9,kothimbir,TRUE,64.75,,9,kothimbir,TRUE,98.69
+10,matki,TRUE,71.26,,10,matki,TRUE,49.47,,10,matki,FALSE,0
+11,mirchi thecha,TRUE,75.3,,11,mirchi thecha,TRUE,47.53,,11,mirchi thecha,FALSE,0
+12,mix veg kheema,TRUE,66.01,,12,mix veg kheema,TRUE,52.86,,12,mix veg kheema,TRUE,56.03
+13,paneer butter masala,TRUE,84.33,,13,paneer butter masala,TRUE,63.77,,13,paneer butter masala,FALSE,0
+14,patwadi rassa,TRUE,81.66,,14,patwadi rassa,TRUE,48.58,,14,patwadi rassa,TRUE,80.37
+15,pavbhaji,TRUE,78.06,,15,pavbhaji,TRUE,73.34,,15,pavbhaji,FALSE,0
+16,pithla,TRUE,98.66,,16,pithla,TRUE,74.66,,16,pithla,FALSE,0
+17,pohe,TRUE,50.24,,17,pohe,TRUE,36.06,,17,pohe,FALSE,0
+18,ragda,TRUE,70.74,,18,ragda,TRUE,62.8,,18,ragda,FALSE,0
+19,rajma bhaji,TRUE,86.33,,19,rajma bhaji,TRUE,60.77,,19,rajma bhaji,TRUE,67.37
+20,sabudana khichadi,TRUE,78.8,,20,sabudana khichadi,TRUE,58.8,,20,sabudana khichadi,TRUE,90.61
+21,sambar,TRUE,79.86,,21,sambar,TRUE,66.63,,21,sambar,TRUE,34.2
+22,tawa pulav,TRUE,77.54,,22,tawa pulav,TRUE,59.06,,22,tawa pulav,TRUE,78.8
+23,upma,TRUE,62.87,,23,upma,TRUE,41.25,,23,upma,FALSE,0
+24,veg shahi kurma,TRUE,82.16,,24,veg shahi kurma,TRUE,56.37,,24,veg shahi kurma,FALSE,0
+,,,,,25,akkha masoor,TRUE,52.86,,,,,
+,,,,,26,akrod halwa,TRUE,33.55,,,,,
+,,,,,27,aloo paratha kanik,TRUE,57.56,,,,,
+,,,,,28,aloo paratha saran,TRUE,45.24,,,,,
+,,,,,29,aloo tikki,TRUE,60.41,,,,,
+,,,,,30,batata bhaji batata,TRUE,46.98,,,,,
+,,,,,31,batata wada saran,TRUE,52.77,,,,,
+,,,,,32,bhajani thalipeeth,TRUE,30.27,,,,,
+,,,,,33,bhakri pith,TRUE,43.46,,,,,
+,,,,,34,bhatura kanik,TRUE,63.56,,,,,
+,,,,,35,bombay sandwich stuffing,TRUE,55.73,,,,,
+,,,,,36,chopped kanda,TRUE,53.08,,,,,
+,,,,,37,chopped paneer,TRUE,55.78,,,,,
+,,,,,38,chopped tomato,TRUE,47.13,,,,,
+,,,,,39,chutney idiyappam,TRUE,58.73,,,,,
+,,,,,40,dal khichdi dal,TRUE,45.98,,,,,
+,,,,,41,fried kanda,TRUE,58.37,,,,,
+,,,,,42,idlis,TRUE,60.35,,,,,
+,,,,,43,kanda bhaji batter,TRUE,59.35,,,,,
+,,,,,44,khobra,TRUE,53.26,,,,,
+,,,,,45,lasuni palak paneer,TRUE,69.47,,,,,
+,,,,,46,medu wada pith,TRUE,56.25,,,,,
+,,,,,47,medu wada wada,TRUE,48.06,,,,,
+,,,,,48,methi mutter malai,TRUE,57.63,,,,,
+,,,,,49,plain dahi,TRUE,47.98,,,,,
+,,,,,50,plain dal,TRUE,57,,,,,
+,,,,,,,,,,,,,
+,Average Accuracy,24/24,75.02708333,,,Average Accuracy,50/50,53.3216,,,Average Accuracy,9/24,28.73375

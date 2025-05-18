@@ -1,0 +1,7 @@
+Model,Inference Time (Colab T4 GPU),VRAM Usage,Parameters,Layers,Computational Complexity,Speed (MB Air M1),Benchmark Accuracy (Estimate),Model Name,Link to Model
+OpenCLIP-L14,~1-2 seconds,3-4 GB,428 million,24,Moderate,~2-3 seconds,75,ViT-L-14 laion2b_s32b_b82k,https://huggingface.co/laion/CLIP-ViT-L-14-laion2B-s32B-b82K
+OpenCLIP-H14,~3-5 seconds,6-8 GB,1.2 billion,32,High,~8-12 seconds,,,
+OpenCLIP-G14,~8-12 seconds,12-16 GB,2.7 billion,40,Very High,~20-30 seconds,,,
+CLIPA-v2-L14,~2-3 seconds,4-5 GB,428 million,24,Moderate,~3-5 seconds,,,
+CLIPA-v2-H14,~5-7 seconds,8-10 GB,1.2 billion,32,High,~10-15 seconds,,,
+CLIPA-v2-G14,~10-15 seconds,16-20 GB,2.7 billion,40,Very High,~25-35 seconds,,,
